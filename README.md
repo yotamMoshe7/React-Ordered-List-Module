@@ -14,7 +14,7 @@ The project implements list management.
 ## Quick Pop Ordereded list
 1. Push an element - in this implementation the list will always remain sorted, each element will be insert to the sorted position in the list.
    o(n) in the worst case.
-2. Pop up element - since the list is already sorted, by each click on the pop up button, the first element in list will appear.
+2. Pop up element - since the list is already sorted, by each click on the pop up button, the first element in list will appear, in the next pop up, the second largest element    will return and so on..
    o(1) in the worst case.
 
 ## Quick Push Ordereded list
