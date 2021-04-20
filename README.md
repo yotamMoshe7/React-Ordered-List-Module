@@ -9,16 +9,16 @@ The project implements list management.
 
 ![Novidea picture](https://user-images.githubusercontent.com/57434735/115446364-cbb11c80-a21f-11eb-86e3-20c670019d12.PNG)
 
-## The project implement 2 kinds of list management:
+# The project implement 2 kinds of list management:
 
-# Quick Pop Ordereded list
+## Quick Pop Ordereded list
 1. Push an element - in this implementation the list will always remain sorted, each element will be insert to the sorted position in the list.
    o(n) in the worst case.
-3. Pop up element - since the list is already sorted, by each click on the pop up button, the first element in list will appear.
+2. Pop up element - since the list is already sorted, by each click on the pop up button, the first element in list will appear.
    o(1) in the worst case.
 
-# Quick Push Ordereded list
+## Quick Push Ordereded list
 1. Push an element - In this implementation each element will be added to the end of the list.
    o(1) in the worst case.
-3. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, in the next pop up, the second largest element will return and so on.
+2. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, in the next pop up, the second largest element will return and so on.
   o(n) in the worst case.
