@@ -20,7 +20,7 @@ The project implements list management.
 ## Quick Push Ordereded list
 1. Push an element - In this implementation each element will be added to the end of the list.</br>
    o(1) in the worst case.
-2. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, in the next pop up, the second largest element will return and so on.</br>
+2. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, the second largest element will return and so on.</br>
   o(n) in the worst case.
 
 ## Run project instructions
