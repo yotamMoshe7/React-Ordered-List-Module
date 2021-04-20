@@ -1,0 +1,23 @@
+#radio-buttons-wrapper {
+  color: white;
+  height: 10vw;
+  width: 30vw;
+  display: flex;
+  justify-content: center;
+}
+
+#radio-button-wrapper {
+  color: white;
+  height: 9vw;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#radio-title {
+  height: 3.2vw;
+  font-size: 2vw;
+  font-family: 'Anton', sans-serifradio-buttons-wrapper;
+}

@@ -1,0 +1,43 @@
+#input-buttons-wrapper {
+  width: 50vw;
+  height: 10vw;
+  display: flex;
+  align-items: center;
+}
+
+#input-wrapper {
+  width: 50%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#input {
+  width: 55%;
+  height: 100%;
+  border-radius: 10px 10px 10px 10px;
+  font-size: 2vw;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+}
+
+#button-wrapper {
+  width: 25%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#button {
+  width: 70%;
+  height: 100%;
+  border-radius: 15px 15px 15px 15px;
+  background-color: rgb(63, 11, 2);
+  border-color: rgb(63, 11, 2);
+  color: white;
+  font-size: 2.5vw;
+  font-family: 'Bangers', cursive;
+  padding: 10px;
+}

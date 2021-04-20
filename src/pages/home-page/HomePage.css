@@ -1,0 +1,16 @@
+#home-wrapper {
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#error {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+  height: 6vw;
+  font-size: 2vw;
+}
