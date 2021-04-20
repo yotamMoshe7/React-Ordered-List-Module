@@ -4,7 +4,7 @@ The project implements list management.
 # Main functionality: 
 1. Push up an element to list.
 2. Pop an element from list.
-3. When pop element from list, the largest element will show up, in the next pop up, the</br> second largest element will return and so on.
+3. When pop element from list, the largest element will show up, in the next pop up, the second largest element will return and so on.
 3. Unit Tests to validate that the operations are performed with the required efficiency.
 
 ![Novidea picture](https://user-images.githubusercontent.com/57434735/115446364-cbb11c80-a21f-11eb-86e3-20c670019d12.PNG)
@@ -18,9 +18,9 @@ The project implements list management.
    o(1) in the worst case.
 
 ## Quick Push Ordereded list
-1. Push an element - In this implementation each element will be added to the end of the list.
+1. Push an element - In this implementation each element will be added to the end of the list.</br>
    o(1) in the worst case.
-2. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, in the next pop up, the second largest element will return and so on.
+2. Pop up element - by clicking on the pop up element, the function will check all the elements in the list and the largest element will be returned, in the next click on the pop   up, in the next pop up, the second largest element will return and so on.</br>
   o(n) in the worst case.
 
 ## Run project instructions
